@@ -6,8 +6,6 @@ const typingElement = document.getElementById("typing");
 
 const words = [
     "Web Developer",
-    "Frontend Developer",
-    "React Developer",
     "Problem Solver"
 ];
 
